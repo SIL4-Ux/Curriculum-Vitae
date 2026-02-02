@@ -7,7 +7,7 @@ General Trias, Cavite
 
 ## PROFESSIONAL SUMMARY
 
-Aspiring **Cybersecurity Intern** and fourth-year **Bachelor of Science in Computer Science** student at **Eulogio “Amang” Rodriguez Institute of Science and Technology – Cavite Campus**. Possesses a strong foundation in **programming, operating systems, databases, and basic networking concepts**, with hands-on experience from academic system and mobile application projects. Detail-oriented, adaptable, and eager to learn cybersecurity fundamentals, system protection practices, and industry-standard security procedures.
+A Motivated fourth-year **Bachelor of Science in Computer Science** student at **Eulogio “Amang” Rodriguez Institute of Science and Technology – Cavite Campus**. Possesses a strong foundation in **programming, operating systems, databases, and basic networking concepts**, with hands-on experience from academic system and mobile application projects. Detail-oriented, adaptable, and eager to learn cybersecurity fundamentals, system protection practices, and industry-standard security procedures.
 
 ---
 
